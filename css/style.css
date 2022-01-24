@@ -6,8 +6,8 @@
     color:blue;
 }
 .highlighted-card{
-    position: relative;
-    bottom: 45px;
+    /* position: relative;
+    bottom: 45px; */
     border-radius: 30px;
 
 
