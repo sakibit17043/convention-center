@@ -1,3 +1,4 @@
+/* custom style  */
 .card-button{
     background-color: 
     #ffe6f6be;
@@ -6,9 +7,6 @@
     color:blue;
 }
 .highlighted-card{
-    /* position: relative;
-    bottom: 45px; */
+   
     border-radius: 30px;
-
-
 }
